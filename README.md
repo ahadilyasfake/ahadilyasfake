@@ -5,9 +5,7 @@
 <br><br>
 <br><br>
 <br><br>
-<br><br><br><br><br><br><br><br>
 <br><br>
-<br><br><br><br>
 
  <a href="https://linkedin.com/in/samadpls" target="_blank">
 <p align="center">
