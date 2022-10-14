@@ -60,6 +60,4 @@
 <div>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20%20%20&fontSize=30&height=120&width=100%&section=header"/>
-</p></a>
+
