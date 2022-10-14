@@ -21,7 +21,7 @@
 
 # About Me:<img src='.github/workflows/cartoon1.gif' height=65/>
 
-- Hi, I am <a href="https://linkedin.com/in/samadpls" target="blank">Abdul Samad🤍</a>, a software engineering👨🏼‍💻 student at UIT. .. An introvert who took computer science to stay alone and do work. But who would knew programming would become my passion. I enjoy solving programming problems and love Python🐍. GitHub is one of the places where I learned the most. I have interest in Data science, front-end and JavaScript. Aim to contribute to the developer community.
+- Hi, I am <a href="https://linkedin.com/in/samadpls" target="blank">Abdul Ahad🤍</a>, a software engineering👨🏼‍💻 student at UIT. .. An introvert who took computer science to stay alone and do work. But who would knew programming would become my passion. I enjoy solving programming problems and love Python🐍. GitHub is one of the places where I learned the most. I have interest in Data science, front-end and JavaScript. Aim to contribute to the developer community.
 ------
 🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Python, HTML & CSS, Vs Code<br>👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.<br>
 
@@ -44,7 +44,7 @@
 
 |Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
 |---|---|---|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samadpls&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com?user=samadpls&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samadpls&theme=gruvbox)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahadilyasfake&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com?user=ahadilyasfake&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahadilyasfake&theme=gruvbox)|
 
 
 ---
@@ -52,7 +52,7 @@
 <img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=samadpls&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahadilyasfake&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align='center'>
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
 
