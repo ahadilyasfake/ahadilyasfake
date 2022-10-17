@@ -1,8 +1,7 @@
 
 <a href='https://github.com/samadpls/Islamic-qoutes'>
 <img align='right' src='https://islamic-qoutes-header.herokuapp.com/' width=100% height='100%'alt='samadpls/islamic-qoutes'></a>
-<p height='500px'>  </p>
-
+<p width=100% height='700px'></p>
  <a href="https://linkedin.com/in/samadpls" target="_blank">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Abdul%20Ahad%20Here🤍&fontSize=30&height=120&width=100%&section=header"/>
