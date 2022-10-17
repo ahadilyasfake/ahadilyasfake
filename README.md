@@ -55,7 +55,7 @@
 
 ---
 <div align='center'>
-<img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
+<img src='https://github.com/ahadilyasfake/ahadilyasfake/blob/output/github-contribution-grid-snake.svg'/>
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahadilyasfake&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
