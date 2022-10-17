@@ -2,13 +2,6 @@
 <a href='https://github.com/samadpls/Islamic-qoutes'>
 <img align='right' src='https://islamic-qoutes-header.herokuapp.com/' width=100% height='100%'alt='samadpls/islamic-qoutes'></a>
 <br></br>
-<br></br><br></br><br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 <br></br>
 <br></br>
 <br></br>
