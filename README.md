@@ -15,6 +15,7 @@
 
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Assalam+u+Alaikum+;HTML%7CCSS%7CJAVASCRIPT%7CREACT%7CNODE.JS" alt="Typing SVG" />
+ </div>
 <div align='center'>
 <p align="center"> 
    Visitor count:
