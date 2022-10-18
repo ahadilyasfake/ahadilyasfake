@@ -7,14 +7,14 @@
 <br></br>
 <br></br>
 <br></br>
+<br></br>
  <a href="https://linkedin.com/in/samadpls" target="_blank">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Abdul%20Ahad%20Here🤍&fontSize=30&height=120&width=100%&section=header"/>
 </p></a>
 
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Assalam+u+Alaikum+;HTML%7CCSS%7CJAVASCRIPT%7CREACT%7CNODE.JS" alt="Typing SVG" /></a>font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=435&lines=Python+%7C+Data+Analyst+%7C+CHISEL+%7CHTML+%26+CSS+%7C" alt="Typing SVG" />
-</a></div><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Assalam+u+Alaikum+;HTML%7CCSS%7CJAVASCRIPT%7CREACT%7CNODE.JS" alt="Typing SVG" />
 <div align='center'>
 <p align="center"> 
    Visitor count:
