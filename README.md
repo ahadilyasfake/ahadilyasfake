@@ -28,9 +28,9 @@
 
 # About Me:<img src='.github/workflows/cartoon1.gif' height=65/>
 
-- Hi, I am <a href="https://linkedin.com/in/samadpls" target="blank">Abdul Ahad🤍</a>, a software engineering👨🏼‍💻 student at UIT. .. An introvert who took computer science to stay alone and do work. But who would knew programming would become my passion. I enjoy solving programming problems and love Python🐍. GitHub is one of the places where I learned the most. I have interest in Data science, front-end and JavaScript. Aim to contribute to the developer community.
+- Hi, I am <a href="https://linkedin.com/in/samadpls" target="blank">Abdul Ahad🤍</a>, a web developer👨🏼‍💻 student at SMIT. .. An introvert who took programing to stay alone and do work. But who would knew programming would become my passion. I enjoy solving programming problems and love REACT. GitHub is one of the places where I learned the most. I have interest in Data science, front-end and JavaScript. Aim to contribute to the developer community.
 ------
-🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Python, HTML & CSS, Vs Code<br>👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.<br>
+🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Web development<br>💬 Ask me about React, HTML & CSS, Vs Code<br>👨🏼‍💻 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.<br>
 
 ## <img src='.github/workflows/tech.gif' height=60/> Socials:
 <div align='center'>
